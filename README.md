@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi, I'm Asli 👋
 
-<!--
-**asliyuksek/asliyuksek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc Bioinformatics student at the University of Potsdam  
+Interested in sequencing data analysis and computational biology
 
-Here are some ideas to get you started:
+### Background
+- Neural data analysis and decoding (SVM, MATLAB)
+- RNA-seq data analysis (Python)
+- Structural bioinformatics (MSA, homology modelling, PyMOL)
+- Experience with Linux and HPC (SLURM)
 
-- 🔭 I’m currently working on bioinformatics.
-- 🌱 I’m currently learning programming languages.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tools
+Python - MATLAB - R - Linux - Git
